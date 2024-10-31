@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ordem de Serviço</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .header p {
+            margin: 5px 0 0;
+            font-size: 18px;
+        }
+
+        .info-section {
+            margin-bottom: 20px;
+        }
+
+        .info-section h2 {
+            margin: 0;
+            font-size: 20px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        .info-section p {
+            margin: 5px 0;
+            font-size: 16px;
+        }
+
+        .signature {
+            margin-top: 150px;
+            display: flex;
+            justify-content: space-between;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .signature img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Ordem de Serviço</h1>
+        <p>ID do Pedido: {{number}}</p>
+    </div>
+
+    <div class="info-section">
+        <h2>Dados do Prestador de Serviço</h2>
+        <p>Nome: Sara Store</p>
+        <p>Endereço: Rua José Guedes Fernandes, 60, Nova Lima, MG</p>
+        <p>Email: sarastore@sarastore.com</p>
+        <p>Telefone: (31) 9 1923-1123</p>
+    </div>
+
+    <div class="info-section">
+        <h2>Dados do Cliente</h2>
+        <p>Nome: {{name}}</p>
+        <p>Telefone: {{phone}}</p>
+        <p>Documento: {{document}}</p>
+        <p>Email: {{email}}</p>
+        <p>Cidade: {{city}}</p>
+    </div>
+
+    <div class="info-section">
+        <h2>Dados do Serviço</h2>
+        <p>Descrição do Serviço: {{description}}</p>
+        <p>Cidade: {{city}}</p>
+        <p>Data/Hora início do trabalho: {{startWorkDateTime}}</p>
+        <p>Data/Hora término do trabalho: {{endWorkDateTime}}</p>
+    </div>
+
+    <div class="info-section">
+        <h2>Peças em manutenção</h2>
+        {{parts}}
+    </div>
+
+    <div class="info-section">
+        <h2>Descrição de Valores</h2>
+        <p>Valor do Serviço: R$ {{price}}</p>
+    </div>
+
+    <div class="signature">
+        <div>
+            <h2>Assinatura do Cliente</h2>
+        </div>
+        <div>
+            <h2>Assinatura do Técnico</h2>
+        </div>
+        
+    </div>
+</body>
+
+</html>

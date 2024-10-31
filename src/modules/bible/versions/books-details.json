@@ -1,0 +1,332 @@
+[
+    {
+        "name": "Gênesis",
+        "abrev": "gn",
+        "totalChapters": 50
+    },
+    {
+        "name": "Êxodo",
+        "abrev": "ex",
+        "totalChapters": 40
+    },
+    {
+        "name": "Levítico",
+        "abrev": "lv",
+        "totalChapters": 27
+    },
+    {
+        "name": "Números",
+        "abrev": "nm",
+        "totalChapters": 36
+    },
+    {
+        "name": "Deuteronômio",
+        "abrev": "dt",
+        "totalChapters": 34
+    },
+    {
+        "name": "Josué",
+        "abrev": "js",
+        "totalChapters": 24
+    },
+    {
+        "name": "Juízes",
+        "abrev": "jz",
+        "totalChapters": 21
+    },
+    {
+        "name": "Rute",
+        "abrev": "rt",
+        "totalChapters": 4
+    },
+    {
+        "name": "1 Samuel",
+        "abrev": "1sm",
+        "totalChapters": 31
+    },
+    {
+        "name": "2 Samuel",
+        "abrev": "2sm",
+        "totalChapters": 24
+    },
+    {
+        "name": "1 Reis",
+        "abrev": "1rs",
+        "totalChapters": 22
+    },
+    {
+        "name": "2 Reis",
+        "abrev": "2rs",
+        "totalChapters": 25
+    },
+    {
+        "name": "1 Crônicas",
+        "abrev": "1cr",
+        "totalChapters": 29
+    },
+    {
+        "name": "2 Crônicas",
+        "abrev": "2cr",
+        "totalChapters": 36
+    },
+    {
+        "name": "Esdras",
+        "abrev": "ed",
+        "totalChapters": 10
+    },
+    {
+        "name": "Neemias",
+        "abrev": "ne",
+        "totalChapters": 13
+    },
+    {
+        "name": "Ester",
+        "abrev": "et",
+        "totalChapters": 10
+    },
+    {
+        "name": "Jó",
+        "abrev": "jó",
+        "totalChapters": 42
+    },
+    {
+        "name": "Salmos",
+        "abrev": "sl",
+        "totalChapters": 150
+    },
+    {
+        "name": "Provérbios",
+        "abrev": "pv",
+        "totalChapters": 31
+    },
+    {
+        "name": "Eclesiastes",
+        "abrev": "ec",
+        "totalChapters": 12
+    },
+    {
+        "name": "Cânticos",
+        "abrev": "ct",
+        "totalChapters": 8
+    },
+    {
+        "name": "Isaías",
+        "abrev": "is",
+        "totalChapters": 66
+    },
+    {
+        "name": "Jeremias",
+        "abrev": "jr",
+        "totalChapters": 52
+    },
+    {
+        "name": "Lamentações de Jeremias",
+        "abrev": "lm",
+        "totalChapters": 5
+    },
+    {
+        "name": "Ezequiel",
+        "abrev": "ez",
+        "totalChapters": 48
+    },
+    {
+        "name": "Daniel",
+        "abrev": "dn",
+        "totalChapters": 12
+    },
+    {
+        "name": "Oséias",
+        "abrev": "os",
+        "totalChapters": 14
+    },
+    {
+        "name": "Joel",
+        "abrev": "jl",
+        "totalChapters": 3
+    },
+    {
+        "name": "Amós",
+        "abrev": "am",
+        "totalChapters": 9
+    },
+    {
+        "name": "Obadias",
+        "abrev": "ob",
+        "totalChapters": 1
+    },
+    {
+        "name": "Jonas",
+        "abrev": "jn",
+        "totalChapters": 4
+    },
+    {
+        "name": "Miquéias",
+        "abrev": "mq",
+        "totalChapters": 7
+    },
+    {
+        "name": "Naum",
+        "abrev": "na",
+        "totalChapters": 3
+    },
+    {
+        "name": "Habacuque",
+        "abrev": "hc",
+        "totalChapters": 3
+    },
+    {
+        "name": "Sofonias",
+        "abrev": "sf",
+        "totalChapters": 3
+    },
+    {
+        "name": "Ageu",
+        "abrev": "ag",
+        "totalChapters": 2
+    },
+    {
+        "name": "Zacarias",
+        "abrev": "zc",
+        "totalChapters": 14
+    },
+    {
+        "name": "Malaquias",
+        "abrev": "ml",
+        "totalChapters": 4
+    },
+    {
+        "name": "Mateus",
+        "abrev": "mt",
+        "totalChapters": 28
+    },
+    {
+        "name": "Marcos",
+        "abrev": "mc",
+        "totalChapters": 16
+    },
+    {
+        "name": "Lucas",
+        "abrev": "lc",
+        "totalChapters": 24
+    },
+    {
+        "name": "João",
+        "abrev": "jo",
+        "totalChapters": 21
+    },
+    {
+        "name": "Atos",
+        "abrev": "atos",
+        "totalChapters": 28
+    },
+    {
+        "name": "Romanos",
+        "abrev": "rm",
+        "totalChapters": 16
+    },
+    {
+        "name": "1 Coríntios",
+        "abrev": "1co",
+        "totalChapters": 16
+    },
+    {
+        "name": "2 Coríntios",
+        "abrev": "2co",
+        "totalChapters": 13
+    },
+    {
+        "name": "Gálatas",
+        "abrev": "gl",
+        "totalChapters": 6
+    },
+    {
+        "name": "Efésios",
+        "abrev": "ef",
+        "totalChapters": 6
+    },
+    {
+        "name": "Filipenses",
+        "abrev": "fp",
+        "totalChapters": 4
+    },
+    {
+        "name": "Colossenses",
+        "abrev": "cl",
+        "totalChapters": 4
+    },
+    {
+        "name": "1 Tessalonicenses",
+        "abrev": "1ts",
+        "totalChapters": 5
+    },
+    {
+        "name": "2 Tessalonicenses",
+        "abrev": "2ts",
+        "totalChapters": 3
+    },
+    {
+        "name": "1 Timóteo",
+        "abrev": "1tm",
+        "totalChapters": 6
+    },
+    {
+        "name": "2 Timóteo",
+        "abrev": "2tm",
+        "totalChapters": 4
+    },
+    {
+        "name": "Tito",
+        "abrev": "tt",
+        "totalChapters": 3
+    },
+    {
+        "name": "Filemom",
+        "abrev": "fm",
+        "totalChapters": 1
+    },
+    {
+        "name": "Hebreus",
+        "abrev": "hb",
+        "totalChapters": 13
+    },
+    {
+        "name": "Tiago",
+        "abrev": "tg",
+        "totalChapters": 5
+    },
+    {
+        "name": "1 Pedro",
+        "abrev": "1pe",
+        "totalChapters": 5
+    },
+    {
+        "name": "2 Pedro",
+        "abrev": "2pe",
+        "totalChapters": 3
+    },
+    {
+        "name": "1 João",
+        "abrev": "1jo",
+        "totalChapters": 5
+    },
+    {
+        "name": "2 João",
+        "abrev": "2jo",
+        "totalChapters": 1
+    },
+    {
+        "name": "3 João",
+        "abrev": "3jo",
+        "totalChapters": 1
+    },
+    {
+        "name": "Judas",
+        "abrev": "jd",
+        "totalChapters": 1
+    },
+    {
+        "name": "Apocalipse",
+        "abrev": "ap",
+        "totalChapters": 22
+    }
+]
