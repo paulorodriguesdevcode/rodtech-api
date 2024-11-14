@@ -64,7 +64,7 @@ export class OrderRepository {
 
     await product.save();
 
-    const totalValue = product.quantity * product.saleValue;
+    const totalValue = quantity * product.saleValue;
     const interest = product.saleValue - product.purchaseValue;
 
     if (interest <= 0) {
